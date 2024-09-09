@@ -1,0 +1,10 @@
+   public class Step
+    {
+        public TextBox StepTextBox { get; set; }//Right click
+
+        public Step(TextBox stepTextBox)
+        {
+            StepTextBox = stepTextBox;
+        }
+    }
+}

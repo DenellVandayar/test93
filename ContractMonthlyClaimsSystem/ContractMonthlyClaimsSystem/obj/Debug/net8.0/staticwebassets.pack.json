@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContractMonthlyClaimsSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ContractMonthlyClaimsSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\100.jpg",
+      "PackagePath": "staticwebassets\\images\\100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\101.jpg",
+      "PackagePath": "staticwebassets\\images\\101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\1308898.jpg",
+      "PackagePath": "staticwebassets\\images\\1308898.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\69.jpg",
+      "PackagePath": "staticwebassets\\images\\69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\84.jpg",
+      "PackagePath": "staticwebassets\\images\\84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\93.jpg",
+      "PackagePath": "staticwebassets\\images\\93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\Untitled design.mp4",
+      "PackagePath": "staticwebassets\\images\\Untitled design.mp4"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\blo.jpg",
+      "PackagePath": "staticwebassets\\images\\blo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\colour.jpg",
+      "PackagePath": "staticwebassets\\images\\colour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\d1.jpg",
+      "PackagePath": "staticwebassets\\images\\d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\d18.jpg",
+      "PackagePath": "staticwebassets\\images\\d18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\d2.avif",
+      "PackagePath": "staticwebassets\\images\\d2.avif"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\logo7.jpg",
+      "PackagePath": "staticwebassets\\images\\logo7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\nature.jpg",
+      "PackagePath": "staticwebassets\\images\\nature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\pr.mp4",
+      "PackagePath": "staticwebassets\\images\\pr.mp4"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\images\\s5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\tr.jpeg",
+      "PackagePath": "staticwebassets\\images\\tr.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\trs.png",
+      "PackagePath": "staticwebassets\\images\\trs.png"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\images\\v1.jpg",
+      "PackagePath": "staticwebassets\\images\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\06ef5f9a-94d5-405f-8f30-5de30dd62e63_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\06ef5f9a-94d5-405f-8f30-5de30dd62e63_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\0e993d63-f79b-4d95-8a40-333a816fc71b_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\0e993d63-f79b-4d95-8a40-333a816fc71b_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\30a272c7-2d68-400a-824d-6ea1239761cf_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\30a272c7-2d68-400a-824d-6ea1239761cf_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\46cb1b71-98e6-422e-b427-0e9ef03e3240_wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\uploads\\46cb1b71-98e6-422e-b427-0e9ef03e3240_wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\51a03909-b861-4583-b395-4bd2c70078b1_LayBuy Agrement 4.txt",
+      "PackagePath": "staticwebassets\\uploads\\51a03909-b861-4583-b395-4bd2c70078b1_LayBuy Agrement 4.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\54d1e3e2-854c-4aa8-bca2-f3c22449dd64_public class Step.txt",
+      "PackagePath": "staticwebassets\\uploads\\54d1e3e2-854c-4aa8-bca2-f3c22449dd64_public class Step.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\64a7f7ee-5cbd-4814-82d5-d5a48f476ac1_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\64a7f7ee-5cbd-4814-82d5-d5a48f476ac1_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\69dece84-0f64-4069-88e9-753d1e5882ec_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\69dece84-0f64-4069-88e9-753d1e5882ec_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\6d4b5925-74f7-4126-bea0-b14192424486_Laybuy Agreement 7.txt",
+      "PackagePath": "staticwebassets\\uploads\\6d4b5925-74f7-4126-bea0-b14192424486_Laybuy Agreement 7.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\71ee9a8c-433a-4869-a27e-82f1c97f8e97_wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\uploads\\71ee9a8c-433a-4869-a27e-82f1c97f8e97_wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\736e92b0-58ee-4cfb-85ef-0d7dfc1ab02b_public class Step.txt",
+      "PackagePath": "staticwebassets\\uploads\\736e92b0-58ee-4cfb-85ef-0d7dfc1ab02b_public class Step.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\7b9726f5-4002-48ba-b1ac-1ec20a4795a2_public class Ingredient.txt",
+      "PackagePath": "staticwebassets\\uploads\\7b9726f5-4002-48ba-b1ac-1ec20a4795a2_public class Ingredient.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\83698de6-af03-418c-a0f4-01c2dce557b7_Laybuy Agreement 5.txt",
+      "PackagePath": "staticwebassets\\uploads\\83698de6-af03-418c-a0f4-01c2dce557b7_Laybuy Agreement 5.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\86e470c3-a219-4af6-aacb-1ce35caf40ec_wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\uploads\\86e470c3-a219-4af6-aacb-1ce35caf40ec_wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\8e9e0e27-c4f9-423f-b293-296f97ca0156_wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8e9e0e27-c4f9-423f-b293-296f97ca0156_wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\9f9930ab-d1e4-401b-886e-520dfe570c64_public class Ingredient.txt",
+      "PackagePath": "staticwebassets\\uploads\\9f9930ab-d1e4-401b-886e-520dfe570c64_public class Ingredient.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\a49c1be6-28f9-4e5c-b7f4-79e711bf1e70_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\a49c1be6-28f9-4e5c-b7f4-79e711bf1e70_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\a61aa956-63c8-4768-8700-8aecd77fddb5_ORACLE DATABASE FIX'S.txt",
+      "PackagePath": "staticwebassets\\uploads\\a61aa956-63c8-4768-8700-8aecd77fddb5_ORACLE DATABASE FIX'S.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\ad3be962-b451-41b0-9bae-053f9aa53aa4_public class Step.txt",
+      "PackagePath": "staticwebassets\\uploads\\ad3be962-b451-41b0-9bae-053f9aa53aa4_public class Step.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\b81dac46-9335-4b33-a8f2-e0c67a10dea2_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\b81dac46-9335-4b33-a8f2-e0c67a10dea2_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\c42a417e-a668-43cf-8e92-3d4a5dd26306_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\c42a417e-a668-43cf-8e92-3d4a5dd26306_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\c4597fbd-cc6e-42d3-b9fe-f1b1597819c5_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\c4597fbd-cc6e-42d3-b9fe-f1b1597819c5_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\ce6652f4-caba-4616-b70f-909e3fbf5141_Laybuy Agreement 2.txt",
+      "PackagePath": "staticwebassets\\uploads\\ce6652f4-caba-4616-b70f-909e3fbf5141_Laybuy Agreement 2.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\e2fa1ed2-dd2c-4c56-a9d1-482fb356c626_Base user-Oracle Database(Adding coloumns and how to view the tables).txt",
+      "PackagePath": "staticwebassets\\uploads\\e2fa1ed2-dd2c-4c56-a9d1-482fb356c626_Base user-Oracle Database(Adding coloumns and how to view the tables).txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\e63c94f7-2555-4ee1-99ea-b061da683a52_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\e63c94f7-2555-4ee1-99ea-b061da683a52_Document.rtf"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\f8a4555d-7e4f-4dc6-9258-83a60f490c6a_LayBuy Agrement 4.txt",
+      "PackagePath": "staticwebassets\\uploads\\f8a4555d-7e4f-4dc6-9258-83a60f490c6a_LayBuy Agrement 4.txt"
+    },
+    {
+      "Id": "C:\\Users\\lab_services_student\\source\\repos\\ContractMonthlyClaimsSystem\\ContractMonthlyClaimsSystem\\wwwroot\\uploads\\f93ae9d7-1044-43f0-a5d4-9b030453574e_Document.rtf",
+      "PackagePath": "staticwebassets\\uploads\\f93ae9d7-1044-43f0-a5d4-9b030453574e_Document.rtf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ContractMonthlyClaimsSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ContractMonthlyClaimsSystem.props",
+      "PackagePath": "build\\ContractMonthlyClaimsSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ContractMonthlyClaimsSystem.props",
+      "PackagePath": "buildMultiTargeting\\ContractMonthlyClaimsSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ContractMonthlyClaimsSystem.props",
+      "PackagePath": "buildTransitive\\ContractMonthlyClaimsSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

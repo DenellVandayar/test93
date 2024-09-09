@@ -1,0 +1,126 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model ContractMonthlyClaimsSystem.Models.Claims
+@{
+    ViewData["Title"] = " SubmitClaim";
+}
+<style>
+    body {
+        background-image: url('/images/s1.jpg');
+        background-size: cover; 
+        background-repeat: no-repeat;
+        background-position: top;
+    }
+</style>
+<h2>Submit Claim</h2>
+
+<form asp-action="Claims" method="post" enctype="multipart/form-data" id="claimForm">
+    <div class="form-group">
+
+        <label asp-for="LecturerID"></label>
+        <input asp-for="LecturerID" class="form-control" />
+        <span asp-validation-for="LecturerID" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <label asp-for="ClaimPeriodsStart"></label>
+        <input asp-for="ClaimPeriodsStart" type="date" class="form-control" />
+        <span asp-validation-for="ClaimPeriodsStart" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <label asp-for="ClaimPeriodEnd"></label>
+        <input asp-for="ClaimPeriodEnd" type="date" class="form-control" />
+        <span asp-validation-for="ClaimPeriodEnd" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <label asp-for="HoursWorked"></label>
+        <input asp-for="HoursWorked" class="form-control" id="hoursWorked" />
+        <span asp-validation-for="HoursWorked" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+
+        <label asp-for="RatePerHour"></label>
+        <input asp-for="RatePerHour" class="form-control" id="ratePerHour" />
+        <span asp-validation-for="RatePerHour" class="text-danger"></span>
+    </div>
+
+    @*
+    <div class="form-group">
+
+    <label asp-for="TotalAmount"></label>
+    <input asp-for="TotalAmount"  class="form-control" />
+    <span asp-validation-for="TotalAmount" class="text-danger"></span>
+    </div>
+    *@
+
+    <div class="form-group">
+
+        <label asp-for="DescriptionOfWork"></label>
+        <input asp-for="DescriptionOfWork" class="form-control" />
+        <span asp-validation-for="DescriptionOfWork" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Upload" class="control-label"></label>
+        <input asp-for="Upload" type="file" class="form-control" />
+        <span asp-validation-for="Upload" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn-primary">Submit</button>
+    </div>
+
+    
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+
+
+    }
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css"
+          rel="stylesheet" />
+
+    <script>
+
+        $(document).ready(function () {
+            $('#claimForm').on('submit', function (event) {
+                event.preventDefault();
+                var hoursWorked = parseFloat($('#hoursWorked').val()) || 0;
+                var ratePerHour = parseFloat($('#ratePerHour').val()) || 0;
+                var totalAmount = hoursWorked * ratePerHour;
+
+                toastr.success('Total amount due:' + totalAmount.toFixed(2));
+                var form = this;
+                setTimeout(function () {
+                    form.submit();
+                }, 5000); //delay on the pop up
+
+            });
+        });
+
+    </script>
+}

@@ -1,0 +1,22 @@
+show user;
+
+CREATE TABLE STAFF(
+ID INT,FirstName VARCHAR2(10));
+
+--alter statement to add a coloumn onto existing table
+ALTER TABLE STAFF
+ADD City VARCHAR(10);
+
+-- to view table properties
+select * from staff;
+
+-- to view table properties
+DESC STAFF;
+
+--ADD 2 more cols,Region and Age
+ALTER TABLE STAFF
+ADD(Region VARCHAR2(20),Age INT);
+
+-- CHANGE FirstName to nvarchar2 (25)
+ALTER TABLE STAFF
+MODIFY FirstName NVARCHAR2(25);

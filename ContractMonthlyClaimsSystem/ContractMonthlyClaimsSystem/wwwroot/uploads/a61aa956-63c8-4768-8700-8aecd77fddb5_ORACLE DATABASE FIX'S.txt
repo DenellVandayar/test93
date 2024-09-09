@@ -1,0 +1,5 @@
+--FIX to common user roles
+alter session set"_ORACLE_SCRIPT"=true;
+
+-- up the permissions on the base user if cannot create table on a new base user
+GRANT ALL PRIVILEGES TO Nashy;

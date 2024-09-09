@@ -1,0 +1,14 @@
+    public class Ingredient
+    {
+        public Ingredient(TextBox nameTextBox, TextBox quantityTextBox, TextBox unitTextBox)
+        {
+            NameTextBox = nameTextBox;
+            QuantityTextBox = quantityTextBox;
+            UnitTextBox = unitTextBox;
+        }
+
+        public TextBox NameTextBox { get; set;}
+        public TextBox QuantityTextBox { get; set;}
+        public TextBox UnitTextBox { get; set; }
+    }
+}
